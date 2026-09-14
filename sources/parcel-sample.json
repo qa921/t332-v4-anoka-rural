@@ -1,0 +1,229 @@
+{
+  "county": "Anoka",
+  "source": "https://enterprise.gisdata.mn.gov/aghost/rest/services/us_mn_state_mngeo/plan_parcels_open/FeatureServer/1/query?f=json&where=UPPER%28co_name%29+%3D+%27ANOKA%27&outFields=objectid%2Ccounty_pin%2Cco_name%2Cyear_built%2Cemv_total%2Cuseclass1%2Cacres_poly&returnGeometry=false&orderByFields=objectid&resultRecordCount=20",
+  "status": 200,
+  "features": [
+    {
+      "attributes": {
+        "objectid": 36,
+        "county_pin": "033223330007",
+        "co_name": "Anoka",
+        "year_built": 2003,
+        "emv_total": 566500,
+        "useclass1": "1a RESIDENTIAL SINGLE UNIT",
+        "acres_poly": 1.83545426
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 60,
+        "county_pin": "163124230012",
+        "co_name": "Anoka",
+        "year_built": 1979,
+        "emv_total": 354900,
+        "useclass1": "1a RESIDENTIAL SINGLE UNIT",
+        "acres_poly": 0.28608483
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 100,
+        "county_pin": "123124310036",
+        "co_name": "Anoka",
+        "year_built": 1974,
+        "emv_total": 335300,
+        "useclass1": "1a RESIDENTIAL SINGLE UNIT",
+        "acres_poly": 0.33610764
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 101,
+        "county_pin": "163124430076",
+        "co_name": "Anoka",
+        "year_built": 2004,
+        "emv_total": 230900,
+        "useclass1": "1a RESIDENTIAL SINGLE UNIT",
+        "acres_poly": 0.02745653
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 102,
+        "county_pin": "303122240078",
+        "co_name": "Anoka",
+        "year_built": 1988,
+        "emv_total": 415100,
+        "useclass1": "1a RESIDENTIAL SINGLE UNIT",
+        "acres_poly": 0.23557922
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 109,
+        "county_pin": "103024440045",
+        "co_name": "Anoka",
+        "year_built": 1960,
+        "emv_total": 446300,
+        "useclass1": "1a RESIDENTIAL SINGLE UNIT",
+        "acres_poly": 0.41341627
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 137,
+        "county_pin": "073122240122",
+        "co_name": "Anoka",
+        "year_built": 2007,
+        "emv_total": 289200,
+        "useclass1": "1a RESIDENTIAL SINGLE UNIT",
+        "acres_poly": 0.04848433
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 162,
+        "county_pin": "243024410428",
+        "co_name": "Anoka",
+        "year_built": 1974,
+        "emv_total": 120600,
+        "useclass1": "1a RESIDENTIAL SINGLE UNIT",
+        "acres_poly": 0.01480384
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 171,
+        "county_pin": "243124110118",
+        "co_name": "Anoka",
+        "year_built": 2025,
+        "emv_total": 81100,
+        "useclass1": "1a RESIDENTIAL SINGLE UNIT",
+        "acres_poly": 0.03305803
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 220,
+        "county_pin": "143122320031",
+        "co_name": "Anoka",
+        "year_built": 1992,
+        "emv_total": 762700,
+        "useclass1": "1a RESIDENTIAL SINGLE UNIT",
+        "acres_poly": 0.28951621
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 224,
+        "county_pin": "353123430021",
+        "co_name": "Anoka",
+        "year_built": 1987,
+        "emv_total": 235700,
+        "useclass1": "1a RESIDENTIAL SINGLE UNIT",
+        "acres_poly": 0.10338298
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 247,
+        "county_pin": "283223110036",
+        "co_name": "Anoka",
+        "year_built": 1975,
+        "emv_total": 364400,
+        "useclass1": "1a RESIDENTIAL SINGLE UNIT",
+        "acres_poly": 0.76224556
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 268,
+        "county_pin": "113323230011",
+        "co_name": "Anoka",
+        "year_built": 1969,
+        "emv_total": 339800,
+        "useclass1": "1a RESIDENTIAL SINGLE UNIT",
+        "acres_poly": 1.0011898
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 269,
+        "county_pin": "243124110124",
+        "co_name": "Anoka",
+        "year_built": 2025,
+        "emv_total": 81100,
+        "useclass1": "1a RESIDENTIAL SINGLE UNIT",
+        "acres_poly": 0.03305794
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 270,
+        "county_pin": "273123340051",
+        "co_name": "Anoka",
+        "year_built": 1970,
+        "emv_total": 377700,
+        "useclass1": "1a RESIDENTIAL SINGLE UNIT",
+        "acres_poly": 0.33354841
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 287,
+        "county_pin": "043123310043",
+        "co_name": "Anoka",
+        "year_built": 2007,
+        "emv_total": 544000,
+        "useclass1": "1a RESIDENTIAL SINGLE UNIT",
+        "acres_poly": 0.4431537
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 301,
+        "county_pin": "313424420031",
+        "co_name": "Anoka",
+        "year_built": 1998,
+        "emv_total": 312600,
+        "useclass1": "1a RESIDENTIAL SINGLE UNIT",
+        "acres_poly": 0.25255586
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 308,
+        "county_pin": "063124430045",
+        "co_name": "Anoka",
+        "year_built": 1910,
+        "emv_total": 182800,
+        "useclass1": "1a RESIDENTIAL SINGLE UNIT",
+        "acres_poly": 0.22006773
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 309,
+        "county_pin": "113024110059",
+        "co_name": "Anoka",
+        "year_built": 1953,
+        "emv_total": 264100,
+        "useclass1": "1a RESIDENTIAL SINGLE UNIT",
+        "acres_poly": 0.27833998
+      }
+    },
+    {
+      "attributes": {
+        "objectid": 343,
+        "county_pin": "083123230052",
+        "co_name": "Anoka",
+        "year_built": 1981,
+        "emv_total": 224800,
+        "useclass1": "1a RESIDENTIAL SINGLE UNIT",
+        "acres_poly": 0.19979941
+      }
+    }
+  ],
+  "error": null,
+  "exceededTransferLimit": true
+}
